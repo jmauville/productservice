@@ -1,0 +1,4 @@
+﻿{
+  "mongoconnection": "server=localhost;port=3306;database=products;uid=root;password=monmotdepasse",
+  "database": "products"
+}
